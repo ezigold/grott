@@ -132,6 +132,7 @@ The following modules are needed the use Grott:
 + 5000TL-X   (ShineWifi-X)
 + 3600TL-XE (ShineLink-X)
 + 3600TL-XE (ShineLan)
++ SPF5000ES (ShineWifi-F) Working Tested on RPi4 With Grafana Version:8.1.5
 
 ## The Docker images are tested RPI(arm32), Ubuntu and Synology NAS
 
